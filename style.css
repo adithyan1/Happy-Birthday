@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(223, 152, 147);
+}
+
+#birthdayCard {
+    background: rgb(235, 160, 195);
+    color: #111111;
+    width: 35%;
+    min-width: 300px;
+    border: 8px solid rgb(11, 255, 64);
+    border-left: 10px solid #d10707;
+    margin: 10px;
+    padding: 20px;
+    position: absolute;
+    top: 6%;
+    right: 2%;
+  }
+
+  .poster {
+      position: absolute;
+      top: 3em;
+      left: 12em;
+      width: 35em;
+         
+  }
+
+  .poster img {
+    width: 100%;
+    height: auto;
+}
+  
+.emoji {
+
+    margin-top: 15%;
+    margin-left: 5%;
+    width: 5em;
+    height: 5em;        
+}
+
+.emoji img {
+    width: 100%;
+    height: auto;
+}
+
+  .colorText {
+    color: #fd0202;
+  }
+  
+  .signature {
+    text-align: right;
+  }
+
+  .cr {
+      color:rgb(140, 0, 168);
+      font-size: large;
+      font-weight: 800;
+  }
+  
+  .pass {
+    color:rgb(240, 97, 1);
+    font-size: large;
+    font-weight: 800;
+  }
+
+  .dr {
+      color:rgb(17, 6, 119);
+      font-size: large;
+      font-weight: 800;
+  }
+
+ 
+  strong {
+    font-size: large;
+    color: #198b02;
+  }
+
+  p {
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  
